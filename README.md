@@ -444,5 +444,13 @@ Développé comme mini-projet de gestion de base de données avec Next.js et Typ
 
 ---
 
-**Bon développement ! 🎉**#   S I I  
+**Bon développement ! 🎉**#   S I I 
  
+ 
+
+
+## 👨‍💻 here is new part
+
+we work in group using tools and clickup .
+
+---
